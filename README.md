@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdurahman0
+- 👋 Hi, I’m Abdurahman
 - 👀 I’m interested in FullStack web development
 - 🌱 I’m currently learning Backend web development
 - 💞️ I’m looking to collaborate on ...
